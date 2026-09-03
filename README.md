@@ -1,2 +1,5 @@
 # git_test
-hello odin
+Odin Project Progress 
+
+Foundations course:
+- HTML completed 
